@@ -1,4 +1,4 @@
-# Animation Editor
+# Elysium Animation Editor
 Eu criei o editor para usar em minha própria engine. Mas você pode usá-lo para criar animações e exportar em PNG.
 
 **Atalhos**<br>
