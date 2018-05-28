@@ -1,7 +1,7 @@
 # Animation Editor
 Eu criei o editor para usar em minha própria engine. Mas você pode usá-lo para criar animações e exportar em PNG.
 
-[b]Atalhos:[/b]
+[n]Atalhos:[/n] <br>
 W, S, A e D controla o incremento e decremento da posição do ponteiro.
 Shift deleta o objeto selecionado no ponteiro.
 Ctrl limpa a seleção do item selecionado no quadro e também, limpa a posição do ponteiro.
